@@ -1,2 +1,3 @@
 # mukesh-Demo
-This is my first Git Reposiyory.
+This is my first Git Repository.
+Author : Mukesh Kumar
